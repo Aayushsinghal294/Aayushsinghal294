@@ -9,7 +9,7 @@
     Hi 👋, I'm <span style="color:#3498db;">Aayush Singhal</span>
   </strong><br/>
   <em style="font-size: 2rem; color: #7f8c8d; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">
-    Fullstack Engineer &nbsp; | &nbsp; Tech Explorer &nbsp; | &nbsp; Lover of Clean Code
+    Fullstack Engineer &nbsp; | &nbsp; Tech Explorer &nbsp; | &nbsp; Student @ IIIT Jabalpur
   </em>
   <br/><br/>
   <blockquote style="font-style: italic; font-size: 1.3rem; color:#555;">"Crafting elegant code and seamless user experiences — one pixel at a time."</blockquote>
