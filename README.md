@@ -28,7 +28,7 @@
   <a href="mailto:aayushsinghal291005@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://drive.google.com/file/d/1TZVq3-90pjmD2s-Mm3uVUnAArP2rrPHW/view" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+  <a href="https://drive.google.com/file/d/1uNcKFh-mC3yBVbH8CNbJW8__sHpB1qwI/view" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Resume-%23FF6F61?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </p>
