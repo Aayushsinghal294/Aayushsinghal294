@@ -81,6 +81,18 @@
 
 ## 📊 GitHub Stats
 
+<table align="center" style="margin-bottom: 40px;">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=aayushsinghal294&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushsinghal294&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+
 <p align="center" style="margin-bottom: 40px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushsinghal294&theme=tokyonight" alt="Profile Summary" />
   <br/>
