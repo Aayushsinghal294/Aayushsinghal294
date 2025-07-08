@@ -7,7 +7,7 @@
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2c3e50; line-height: 1.4; max-width: 700px; margin: 3rem auto;">
   <strong style="font-size: 4rem; font-weight: 700; letter-spacing: 0.04em;">
     Hi 👋, I'm <span style="color:#3498db;">Aayush Singhal</span>
-  </strong><br/>
+  </strong><br/> 
   <em style="font-size: 2rem; color: #7f8c8d; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">
     Fullstack Engineer &nbsp; | &nbsp; Tech Explorer &nbsp; | &nbsp; Student @ IIIT Jabalpur
   </em>
