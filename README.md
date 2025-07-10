@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontAlignY=35🚀&descAlignY=60" />
-</p>
+</p> 
 
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2c3e50; line-height: 1.4; max-width: 700px; margin: 3rem auto;">
   <strong style="font-size: 4rem; font-weight: 700; letter-spacing: 0.04em;">
